@@ -61,10 +61,6 @@ To get a local copy up and running follow these simple steps.
    ```sh
    npm run dev
    ```
-4. Build the project
-   ```sh
-   npm run build
-   ```
 
 ### License MIT
 
